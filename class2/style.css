@@ -1,0 +1,13 @@
+.container {
+    border: 2px solid cyan;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.box {
+    font-size: 3ex;
+    font-weight: 700;
+    width: 100px;
+    height: 100px;
+    border: 2px dashed peru;
+}
